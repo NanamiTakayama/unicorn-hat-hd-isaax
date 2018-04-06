@@ -1,0 +1,12 @@
+{
+  "name": "python-app",
+  "version": "",
+  "description": "python - raspberry-pi",
+  "main": "examples/demo.py",
+  "author": "",
+  "language":"python",
+  "license": "",
+  "scripts": {
+     "start": "examples/demo.py"
+    }
+}
