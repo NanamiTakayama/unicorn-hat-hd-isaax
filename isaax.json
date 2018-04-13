@@ -2,7 +2,7 @@
   "name": "python-app",
   "version": "Nothing test",
   "description": "python - raspberry-pi",
-  "main": "examples/demo.py",
+  "main": "examples/rainbow.py",
   "author": "",
   "language":"python",
   "license": "",
