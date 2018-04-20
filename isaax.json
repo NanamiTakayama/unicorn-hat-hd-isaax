@@ -7,6 +7,6 @@
   "language":"python",
   "license": "",
   "scripts": {
-     "start": "python3 -u examples/stars.py"
+     "start": "cd examples && python3 -u app.py isaax_cloud_favicon16.png"
     }
 }
