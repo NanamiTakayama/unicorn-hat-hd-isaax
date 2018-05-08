@@ -2,7 +2,7 @@
   "name": "python-app",
   "version": "Nothing test",
   "description": "python - raspberry-pi",
-  "main": "examples/test.py",
+  "main": "examples/matrihd.py",
   "author": "",
   "language":"python",
   "license": "",
