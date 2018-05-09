@@ -15,7 +15,7 @@ Press Ctrl+C to exit!
 
 """)
 
-BUG!!!!
+##BUG!!!!
 
 unicornhathd.rotation(0)
 u_width,u_height = unicornhathd.get_shape()
