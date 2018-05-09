@@ -7,6 +7,6 @@
   "language":"python",
   "license": "",
   "scripts": {
-     "start": "python3 examples/weather-icons/app.py"
+     "start": "python3 examples/weather-icons/app.py isaax_cloud_favicon16.png"
     }
 }
