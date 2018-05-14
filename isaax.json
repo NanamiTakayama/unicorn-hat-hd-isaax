@@ -1,7 +1,7 @@
 {
   "name": "python-app",
   "version": "Nothing test",
-  "description": "for demo:python3 examples/app.py isaax_cloud_favicon16.png",
+  "description": "for demo : python3 examples/app.py isaax_cloud_favicon16.png",
   "main": "examples/app.py",
   "author": "",
   "language":"python",
