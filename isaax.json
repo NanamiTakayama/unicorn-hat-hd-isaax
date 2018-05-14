@@ -1,12 +1,12 @@
 {
   "name": "python-app",
   "version": "Nothing test",
-  "description": "python - raspberry-pi",
+  "description": "for demo:python3 examples/app.py isaax_cloud_favicon16.png",
   "main": "examples/app.py",
   "author": "",
   "language":"python",
   "license": "",
   "scripts": {
-     "start": "python3 python3 app.py isaax_cloud_favicon16.png"
+     "start": "python3 examples/app.py isaax_cloud_favicon16.png"
     }
 }
