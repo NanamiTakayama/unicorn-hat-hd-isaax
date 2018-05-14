@@ -2,11 +2,11 @@
   "name": "python-app",
   "version": "Nothing test",
   "description": "python - raspberry-pi",
-  "main": "examples/matrixhd.py",
+  "main": "examples/app.py",
   "author": "",
   "language":"python",
   "license": "",
   "scripts": {
-     "start": "python3 examples/test.py"
+     "start": "python3 examples/rainbow.py"
     }
 }
