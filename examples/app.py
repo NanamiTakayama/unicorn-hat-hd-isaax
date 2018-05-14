@@ -36,7 +36,7 @@ import unicornhathd as unicorn
 
 unicorn.brightness(0.3)
 unicorn.rotation(0)
-folder_path = '/home/pi/project/examples/icons/'
+folder_path = '/var/isaax/project/examples/icons/'
 icon_extension = '.png'
 width, height = unicorn.get_shape()
 cycle_time = 0.25
