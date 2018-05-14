@@ -3,7 +3,7 @@
   "version": "Nothing test",
   "description": "for demo : python3 examples/app.py isaax_cloud_favicon16.png",
   "main": "examples/app.py",
-  "author": "",
+  "author": "Nanami Setoyama",
   "language":"python",
   "license": "",
   "scripts": {
