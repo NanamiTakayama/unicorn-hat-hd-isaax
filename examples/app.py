@@ -41,6 +41,8 @@ icon_extension = '.png'
 width, height = unicorn.get_shape()
 cycle_time = 0.25
 
+env = os.getenv("TESTENV")
+print(env)
 
 def draw_animation(image):
     try:
