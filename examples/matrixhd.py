@@ -24,6 +24,7 @@ clock = 0
 blue_pilled_population = [[randint(0,15), 15]]
 try:
     while True:
+        print("drawing image")
         for person in blue_pilled_population:
             y = person[1]
             for rgb in wrd_rgb:
