@@ -35,6 +35,7 @@ img = Image.open('lofi.png')
 
 try:
     while True:
+        print("drawing icons")
         for o_x in range(int(img.size[0]/width)):
             for o_y in range(int(img.size[1]/height)):
 
